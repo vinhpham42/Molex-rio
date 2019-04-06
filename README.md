@@ -4,7 +4,7 @@ Pass through board that converts Roborio DIO, RSL, Relay, Analog In, and PWM to 
 ```
 Molex Rio Digikey BOM
   Molex Male Pin Header      QTY 29     	WM4825-ND
-  Female header              QTY 29
+  Female header              QTY 29       S7001-ND
 ```
 Installation:
 1. Insert female headers into roborio.
@@ -16,3 +16,10 @@ Installation:
 7. Correct if needed, then repeat step 6, with each header. 
 8. Use rubbing alcohol and a light brush to clean board if needed.
 
+
+Ordering:
+1. Go to www.Digikey.com
+2. Click on "Cart", then "View Cart"
+3. Upload file named "Digikey Molex Rio Order" to the cart
+4. When Propted for file Mapping, select "Quantity" then "Digi-Key Part Number" in the drop down box.
+5. Lastly click on "Add to cart" to finish
