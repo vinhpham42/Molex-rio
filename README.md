@@ -1,6 +1,8 @@
 # Molex-rio
 Pass through board that converts Roborio DIO, RSL, Relay, Analog In, and PWM to Molex latching connectors. On the underside, the board uses female header connectors that nest to the Roborio. 
 
+![Molex-rio](https://github.com/vinhpham42/Molex-rio/blob/master/Pictures/Molex%20Rio%20Render.png)
+
 ```
 Molex Rio Digikey BOM
   Molex Male Pin Header      QTY 29     	WM4825-ND
