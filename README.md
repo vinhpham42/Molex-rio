@@ -3,6 +3,7 @@ Pass through board that converts Roborio DIO, RSL, Relay, Analog In, and PWM to 
 
 ![Molex-rio](https://github.com/vinhpham42/Molex-rio/blob/master/Pictures/Molex%20Rio%20Render.png)
 
+# BOM:
 ```
 Molex Rio Digikey BOM
   Molex male pin header      QTY 29     	WM4825-ND
@@ -31,5 +32,5 @@ This lists everything to get started, be sure to adjust accordingly.
 4. When Propted for file Mapping, select "Quantity" then "Digi-Key Part Number" in the drop down box.
 5. Lastly click on "Add to cart" to finish
 
-# Molex Crimping
+# Molex Crimping:
 Insturctions on how to crimp Molex connectors can be found in [Spectrum's recommended reading](http://spectrum3847.org/recommendedreading/) under Spectrium FRC Electrical Guide
