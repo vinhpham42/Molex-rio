@@ -11,6 +11,8 @@ Molex Rio Digikey BOM
   Molex female crimp         QTY 87             WM2510-ND
   Crimper                    QTY 1              WM9999-ND	
 ```
+This lists everything to get started, be sure to adjust accordingly.
+
 # Installation:
 1. Insert female headers into roborio.
 2. For RSL, use flush cutters to cut off the third unused pin.
